@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="space_black">#FF0A0A1A</color>
+    <color name="space_dark">#FF12122A</color>
+    <color name="accent_gold">#FFFFD700</color>
+    <color name="accent_blue">#FF4FC3F7</color>
+    <color name="sun_orange">#FFFF9800</color>
+    <color name="mercury">#FF9E9E9E</color>
+    <color name="venus">#FFFFCC80</color>
+    <color name="earth">#FF42A5F5</color>
+    <color name="mars">#FFE57373</color>
+    <color name="jupiter">#FFFFB74D</color>
+    <color name="saturn">#FFFFECB3</color>
+    <color name="uranus">#FF80DEEA</color>
+    <color name="neptune">#FF5C6BC0</color>
+    <color name="pluto">#FFB0BEC5</color>
+    <color name="orbit_line">#33FFFFFF</color>
+    <color name="compass_ring">#66FFFFFF</color>
+</resources>

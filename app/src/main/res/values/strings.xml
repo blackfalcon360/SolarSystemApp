@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solar System Compass</string>
+    <string name="splash_line1">Brought to you</string>
+    <string name="splash_line2">Black falcon 🦅</string>
+    <string name="title_solar_system">Solar System Compass</string>
+    <string name="hold_device">Hold device flat • Point north to align</string>
+</resources>
